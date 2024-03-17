@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "plasma-column-417516",
+  "private_key_id": "72b33eadb4ba111fa3d3df22c5509a319b68ad8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7Q+KyGDkGMn5R\nys2Np5ZT9ZinndP5trDRKYJm0HGg3q+1bmfyKQMPbpdeJHSdkFB6ieEDrk3qymkb\njrxc8QNcPUoKn5n4bj+IZFhNzKkqNyKP08N3NFCmGv+LtnTc/VDxZtYFbIWfrw61\nC0alH2OTlIw415AfNtbnaFc5bCgs9eUI7lQ09LBDsnilbmusDEg8LguRpSk9fTKJ\nfrAMWXGa0cG1u3gDMQ637Q2OJXkSNIhP0okUw7XMuc4cCklG9lwxStMGgppCvvJm\ncvxUbZZpAjQk2VTV5rnBaFyskY75X2T/BQSiYx+FOTEwPaUwCB+B5IrxnAAqXMqp\nsXqsjbtpAgMBAAECggEAAcjRUbIiZPk5M+1TTRzCNXWbKUm7Od9wSuXy3Kjy1D4a\n/YcaTXfvlAeRQK/nPpMf+TL0JnVUP78DBmSzTc1sI0ZgPL6tmGzwhQuzvbYMDJ9u\n4GD7tViVxidutPWdond1fH9m3bFdipp/8OC1ISCt8buSJH6FXI7IuHbJkf4CWf9P\nrV7GfnNn46rmv2oqSCcDYtonhFc8+4eWEeHAQZN3wXPWLnMAvDkxiPV2PUZ8o4pk\nJCdLl0FtaryZ+QOC1CcAVKg5LMTc9JJfeVqhagjsUunMV2kTFifFpMIOkXxEzS3q\nL1zah3i0npH9uXUNsTksyon/Y+XACJhGmFAIQgkYAwKBgQDgJFBe891VOkrZMhyO\n5MPtLx0+Ysv9YX4H7sr0s59Wrs2fdoaio9y48qKML5c+vQOdxcA5GNvKfn/iz5DG\np1UpCPLhvOJ12Rk4dMh75RZIexwacNxo8+rXHyHPjRqPB6G9wiVOD3OJ+OHfeHlf\n67xKnY1g5+w232nKhlWzr3XjiwKBgQDV4cRXi1RLomTJv5oiVgWFiKRt4HKOis2G\nPH35hYW0EA1NYIo6U6z6f889ok5QdSc1VTeEBiWK57yZrQTzSWjXeUg6qvfGXGUk\n15e9ckb3F3TbGoEf2W7z1qoHrIv+U2uEsKmlojZCbLs4h0gASRCXUKXmPN7AVoFf\naP59YPirWwKBgHqaYnwN2Jut7xMvHf/rkmBCzTQ6xmoq0c11CP8g4Z+ArmjzZGHC\nUBG6Zr9XqNtgeIHskWCqAE+bMkjWUNLY5PQ1OOXRc+4SeoEvIBrlDHNJI+4ynd2q\nzmItXUkyXbyu6AHsGIvCV+i4gpTCSWH2iGAoHhVLxyGcwzlMkcRfzZRRAoGATNl+\nLuaFN1f2VvddbpDyEvTx//jxsH33MxBxQ0LSs8xAu1jA0gxWzvs1f7Pd59Lwb51b\nATkkLDDv91fPu4rY/PM7HLlppgB05zP/9bYmAYqQFloDo2oBD+RF29QHyS44J8lC\na51JWbyv2LPjDxcxuuzjb0LX1sw+WAXlyy8YqpkCgYEAu/IjdYyXIdWTzgTqE4s5\nPXTlZl16Ec6oDBB6I23RhZVjXbqKC8zBiq1E5OMkfh4D34yZHAAMxcp1BMTVXSLe\nu+6c80TDSTTUOkZAZmuh5iY4cP6DSHStmoyjj8gWl7kcx2SuO1MAWST1v8uZauc+\nqunRcDxAXR49RT2BJWMRChQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquerypoc@plasma-column-417516.iam.gserviceaccount.com",
+  "client_id": "111040004710412761358",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquerypoc%40plasma-column-417516.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
