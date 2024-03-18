@@ -1,14 +1,12 @@
 // pages/api/bigquery.js
 import { BigQuery } from '@google-cloud/bigquery';
 
-const bigquery = new BigQuery({ keyFilename: keyFile });
 export default async (req, res) => {
     // Create a BigQuery client
-    const keyFile = "plasma-column-417516-72b33eadb4ba.json";
-    const bigquery = new BigQuery({ keyFilename: keyFile });
+    const bigquery = new BigQuery();
 
     // Your BigQuery query
-    const query = 'SELECT * FROM plasma-column-417516.reactConnectivity.HelloWorld LIMIT 1';
+    const query = 'SELECT TextToDisplay FROM plasma-column-417516.reactConnectivity.HelloWorld WHERE TextToDisplayInt=1';
 
     try {
         // Run the query
