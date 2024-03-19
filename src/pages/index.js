@@ -1,5 +1,8 @@
 // pages/index.js
 import React, { useState, useEffect } from 'react';
+import ReactDOM from 'react-dom';
+import App from './App'; // Assuming App.js is located in the same directory as index.js
+
 
 const Home = () => {
     const [data, setData] = useState(null);
@@ -15,6 +18,7 @@ const Home = () => {
             .catch(error => console.error('Error fetching data:', error));
     }, []);
 
+
     return (
         <div>
             <h1>Home</h1>
@@ -24,3 +28,4 @@ const Home = () => {
 };
 
 export default Home;
+
